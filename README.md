@@ -1,33 +1,17 @@
-<h1 align="center" id="title">pong</h1>
+<h1 align="center">Hi , I'm Gregoire Minguez</h1>
+<h3 align="center">a fist year epitech student at "programe grande ecole"</h3>
 
-<p align="center"><img src="https://github.com/GregoireMinguez/pong_python" alt="project-image"></p>
+- 🌱 I’m currently learning **cloud engineering**
 
-<p id="description">pong is a python game which is inspired by the real Pong game and displays several ball statistics with a graphical interface</p>
+- 👨‍💻 All of my projects are available at [voir](voir)
 
-<h2>Project Screenshots:</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gregoire minguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregoire minguez" height="30" width="40" /></a>
+</p>
 
-<img src="/home/gregoire/Pictures/Screenshots/stat_pong.png" alt="project-screenshot" width="600" height="600/">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img src="pong_game.png" alt="project-screenshot" width="600" height="600/">
 
-  
-  
-<h2>Features</h2>
-
-Here're some of the project's best features:
-
-*   velocity vector
-*   ball coordinates
-*   graphical interface
-
-<h2>🛠️ Installation Steps:</h2>
-
-<p>1. # pong_python Simple Pong-inspired visualization used to display the results of the `101pong` math assignment.</p>
-
-<p>2. ## Requirements - Python 3.x with the Tkinter module available (on Debian/Ubuntu install `python3 python3-tk` on Fedora `python3 python3-tkinter`</p>
-
-<p>3. ## How to run Clone the repository then choose one of the two equivalent entry points below (all commands executed from the repository root).</p>
-
-<p>4. ### Using Python directly ```bash python3 101pong.py x0 y0 z0 x1 y1 z1 n ``` - `x0` `y0` `z0`: ball coordinates at time `t - 1` - `x1` `y1` `z1`: ball coordinates at time `t` - `n`: non-negative integer time shift</p>
-
-<p>5. ### Using the provided executable ```bash make # creates ./101pong ./101pong x0 y0 z0 x1 y1 z1 n ``` The program prints the velocity vector future coordinates at `t + n` and whether the ball will hit the paddle (plus the incidence angle). A Tk window also opens with a small Pong game that visualizes the current computation. Controls: left paddle uses `W/S` right paddle uses the Up/Down arrows.</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gregoireminguez&" alt="gregoireminguez" /></p>
